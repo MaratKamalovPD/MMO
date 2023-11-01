@@ -32,6 +32,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Pes_Tick/Documents/GitHub/pbd-dz1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -71,6 +72,9 @@
       <option name="presentableId" value="Default" />
       <updated>1686336276207</updated>
       <workItem from="1686336281189" duration="4863000" />
+      <workItem from="1686474550246" duration="3020000" />
+      <workItem from="1686648518234" duration="643000" />
+      <workItem from="1686770431518" duration="624000" />
     </task>
     <servers />
   </component>
